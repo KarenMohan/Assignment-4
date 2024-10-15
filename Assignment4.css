@@ -182,9 +182,7 @@ body {
     font-size: 16px;
 }
 
-/* Media Queries for responsiveness */
 
-/* Tablets (max-width: 768px) */
 @media (max-width: 768px) {
     .navbar .container,
     .search-bar .container,
@@ -236,7 +234,7 @@ body {
     }
 }
 
-/* Mobile Phones (max-width: 480px) */
+
 @media (max-width: 480px) {
     .navbar-links ul,
     .navbar-links ul.navbar-extra {
